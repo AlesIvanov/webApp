@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c06ef02-9820-491f-9e81-88f3abe9406e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1iTZ3Zef3Kzg9ADsnzsBZZn6Xp3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c06ef02-9820-491f-9e81-88f3abe9406e" name="Default Changelist" comment="" />
+      <created>1601933344542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601933344542</updated>
+      <workItem from="1601933345761" duration="2147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="874" y="299" key="FileChooserDialogImpl" timestamp="1601933398684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="874" y="299" key="FileChooserDialogImpl/1920.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601933398684" />
+    <state x="928" y="467" key="NewPhpFileDialog" timestamp="1601934288826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="928" y="467" key="NewPhpFileDialog/1920.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601934288826" />
+    <state x="595" y="189" key="SettingsEditor" timestamp="1601933403936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="189" key="SettingsEditor/1920.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601933403936" />
+  </component>
+</project>
